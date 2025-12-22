@@ -19,7 +19,7 @@
 
 **AI & LLMs**
 ```
-LlamaIndex • Cerebras • Llama 3.1 • Text-to-SQL • RAG Pipelines • LLM APIs
+LlamaIndex • Cerebras • Text-to-SQL • RAG Pipelines • LLM APIs
 ```
 
 **Data Engineering & CI/CD**
@@ -39,13 +39,17 @@ Streamlit • Plotly • Interactive Dashboards
 
 ---
 
+
 ### 📌 Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
 | 📊 [Olist Analytics](https://github.com/Mohith-akash/olist-analytics-platform) | **100K+ orders**, E-commerce data warehouse with dbt + MotherDuck | dbt, MotherDuck, Streamlit, Python, CI/CD |
-<!-- | 🌐 [Global News Intel](https://github.com/Mohith-akash/gdelt-news-intelligence) | **12M+ events**, AI chat with Text-to-SQL, 100K/day pipeline | LlamaIndex, Cerebras, Dagster, DuckDB | -->
-| [📈 Excel Job Analysis](https://github.com/Mohith-akash/Excel-Data-Analyst-Portfolio-Project) | Interactive dashboard analyzing 13K+ job postings | Excel, Power Query, DAX |
+| 📈 [Excel Job Analysis](https://github.com/Mohith-akash/Excel-Data-Analyst-Portfolio-Project) | Interactive dashboard analyzing 13K+ job postings | Excel, Power Query, DAX |
+
+<!-- GDELT - Uncomment when ready:
+| 🌐 [Global News Intel](https://github.com/Mohith-akash/gdelt-news-intelligence) | **12M+ events**, AI chat with Text-to-SQL, 100K/day pipeline | LlamaIndex, Cerebras, Dagster, DuckDB |
+-->
 
 ---
 
