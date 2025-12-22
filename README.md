@@ -43,8 +43,8 @@ Streamlit • Plotly • Interactive Dashboards
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🌐 Global News Intel](https://global-news-intel-platform.streamlit.app/) | **12M+ events**, AI chat with Text-to-SQL, 100K/day pipeline | LlamaIndex, Cerebras, Dagster, DuckDB |
-| [📊 Olist Analytics](https://github.com/Mohith-akash/olist-analytics-platform) | E-commerce data warehouse with dbt + MotherDuck + Power BI | dbt, MotherDuck, Power BI |
+| 📊 [Olist Analytics](https://github.com/Mohith-akash/olist-analytics-platform) | **100K+ orders**, E-commerce data warehouse with dbt + MotherDuck | dbt, MotherDuck, Streamlit, Python, CI/CD |
+<!-- | 🌐 [Global News Intel](https://github.com/Mohith-akash/gdelt-news-intelligence) | **12M+ events**, AI chat with Text-to-SQL, 100K/day pipeline | LlamaIndex, Cerebras, Dagster, DuckDB | -->
 | [📈 Excel Job Analysis](https://github.com/Mohith-akash/Excel-Data-Analyst-Portfolio-Project) | Interactive dashboard analyzing 13K+ job postings | Excel, Power Query, DAX |
 
 ---
