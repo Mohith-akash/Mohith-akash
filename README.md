@@ -51,7 +51,9 @@
 | 💰 | **$0/month** infrastructure |
 
 <p align="center">
-<code>Python</code> <code>Dagster</code> <code>DuckDB</code> <code>LlamaIndex</code> <code>Streamlit</code>
+<code>Python</code> <code>Dagster</code> <code>DuckDB</code> <code>MotherDuck</code> <code>LlamaIndex</code>
+<br>
+<code>Cerebras</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>GitHub Actions</code>
 </p>
 
 </td>
@@ -80,7 +82,9 @@
 | ✅ | CI/CD with pre-commit hooks |
 
 <p align="center">
-<code>Python</code> <code>dbt</code> <code>MotherDuck</code> <code>Power BI</code> <code>Streamlit</code>
+<code>Python</code> <code>dbt</code> <code>DuckDB</code> <code>MotherDuck</code> <code>SQL</code>
+<br>
+<code>Power BI</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>GitHub Actions</code>
 </p>
 
 </td>
