@@ -35,8 +35,8 @@
   <a href="https://global-news-intel-platform.streamlit.app/">
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-FF4B4B?style=for-the-badge" alt="Live Demo">
   </a>
-  <a href="https://github.com/Mohith-akash/Global-News-Intel-Platform/actions">
-    <img src="https://github.com/Mohith-akash/Global-News-Intel-Platform/actions/workflows/hourly_update.yml/badge.svg" alt="Pipeline">
+  <a href="https://github.com/Mohith-akash/Global-News-Intel-Platform">
+    <img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github" alt="Code">
   </a>
 </p>
 
@@ -51,9 +51,7 @@
 | 💰 | **$0/month** infrastructure |
 
 <p align="center">
-  <code>Python</code> <code>Dagster</code> <code>DuckDB</code> <code>MotherDuck</code> <code>LlamaIndex</code>
-  <br>
-  <code>Cerebras</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>GitHub Actions</code>
+<code>Python</code> <code>Dagster</code> <code>DuckDB</code> <code>LlamaIndex</code> <code>Streamlit</code>
 </p>
 
 </td>
@@ -82,9 +80,7 @@
 | ✅ | CI/CD with pre-commit hooks |
 
 <p align="center">
-  <code>Python</code> <code>dbt</code> <code>DuckDB</code> <code>MotherDuck</code> <code>SQL</code>
-  <br>
-  <code>Power BI</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>GitHub Actions</code>
+<code>Python</code> <code>dbt</code> <code>MotherDuck</code> <code>Power BI</code> <code>Streamlit</code>
 </p>
 
 </td>
@@ -138,7 +134,9 @@
 <div align="center">
 
 [![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/8122ec21-2031-4de8-a347-4c16db04988f)
+<br>
 [![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/d0e6235816d3230aaef8d576d6c23c50)
+<br>
 [![AI for Data Professionals](https://img.shields.io/badge/Analyst_Builder-AI_for_Data_Professionals-06B6D4?style=for-the-badge)](https://www.analystbuilder.com/achievements/verify/A15ZCR8YMD)
 
 </div>
