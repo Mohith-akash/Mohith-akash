@@ -44,10 +44,11 @@
 
 | Feature | Details |
 |:-------:|---------|
-| 📊 | **100K+ daily events** from GDELT API |
-| 🦆 | **MotherDuck** serverless warehouse |
-| ⚡ | **Dagster** + GitHub Actions CI/CD |
+| 📊 | **12M+ events** processed to date |
+| 🌍 | **200+ countries**, 100+ languages |
+| ⚡ | **30-min refresh** via Dagster CI/CD |
 | 🤖 | **Text-to-SQL** with LlamaIndex RAG |
+| 🚀 | **<1s queries** on MotherDuck |
 | 💰 | **$0/month** infrastructure |
 
 <p align="center">
