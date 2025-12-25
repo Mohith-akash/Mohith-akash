@@ -40,21 +40,21 @@
   </a>
 </p>
 
-**Real-time geopolitical news analytics with AI chat**
+**Real-time geopolitical news analytics with dual AI chat**
 
 | Feature | Details |
 |:-------:|---------|
 | 📊 | **12M+ events** processed to date |
 | 🌍 | **200+ countries**, 100+ languages |
 | ⚡ | **30-min refresh** via Dagster CI/CD |
-| 🤖 | **Text-to-SQL** with LlamaIndex RAG |
-| 🚀 | **<1s queries** on MotherDuck |
-| 💰 | **$0/month** infrastructure |
+| 🤖 | **Dual AI**: SQL + RAG semantic search |
+| 🚀 | **Vector search** with Voyage AI embeddings |
+| 💰 | **$0/month** — replaces $1,490+ enterprise tools |
 
 <p align="center">
 <code>Python</code> <code>Dagster</code> <code>DuckDB</code> <code>MotherDuck</code> <code>LlamaIndex</code>
 <br>
-<code>Cerebras</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>GitHub Actions</code>
+<code>Voyage AI</code> <code>Cerebras</code> <code>Streamlit</code> <code>Plotly</code> <code>GitHub Actions</code>
 </p>
 
 </td>
@@ -108,9 +108,18 @@
 <br>
 
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" alt="LlamaIndex">
+<img src="https://img.shields.io/badge/Voyage_AI-06B6D4?style=for-the-badge" alt="Voyage AI">
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" alt="RAG">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+
+<br>
+
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+<img src="https://img.shields.io/badge/Vector_Search-10B981?style=for-the-badge" alt="Vector Search">
+<img src="https://img.shields.io/badge/NLQ-E11D48?style=for-the-badge" alt="NLQ">
+<img src="https://img.shields.io/badge/Text--to--SQL-F59E0B?style=for-the-badge" alt="Text-to-SQL">
+<img src="https://img.shields.io/badge/Embeddings-8B5CF6?style=for-the-badge" alt="Embeddings">
 
 </div>
 
@@ -125,6 +134,8 @@
 │  ⚡ ETL/ELT Pipelines      →  Dagster, dbt, automated data flows       │
 │  🦆 Cloud Data Warehouses  →  MotherDuck, DuckDB, serverless           │
 │  🤖 AI-Powered Analytics   →  RAG, Text-to-SQL, LLM integration        │
+│  💬 NLQ (Natural Language) →  Ask questions in plain English           │
+│  🚀 Vector Search          →  Voyage AI embeddings, cosine similarity  │
 │  📊 Interactive Dashboards →  Streamlit, Power BI, real-time data      │
 │  🔄 CI/CD Automation       →  GitHub Actions, automated testing        │
 └─────────────────────────────────────────────────────────────────────────┘
