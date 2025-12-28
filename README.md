@@ -12,12 +12,11 @@
 
 <br>
 
-**Architecting Serverless Data Platforms | SQL • dbt • Generative AI**
+**Architecting Serverless Data Platforms | SQL • dbt • Polars • Generative AI**
 
 *Building production data systems at scale — with $0 infrastructure costs*
 
 </div>
-
 
 ---
 
@@ -40,21 +39,23 @@
   </a>
 </p>
 
-**Real-time geopolitical news analytics with dual AI chat**
+**Real-time geopolitical news analytics with AI chat & emotion tracking**
 
 | Feature | Details |
 |:-------:|---------|
-| 📊 | **12M+ events** processed to date |
+| 📊 | **12M+ events** from GDELT + GKG feeds |
+| 🧠 | **GKG Emotions**: 2.2K+ dimensions analyzed |
 | 🌍 | **200+ countries**, 100+ languages |
-| ⚡ | **30-min refresh** via Dagster CI/CD |
-| 🤖 | **Dual AI**: SQL + RAG semantic search |
-| 🚀 | **Vector search** with Voyage AI embeddings |
+| ⚡ | **15-min refresh** via Dagster + GitHub Actions |
+| 🤖 | **Dual AI**: Text-to-SQL + RAG vector search |
+| 🔧 | **dbt Core**: Staging/marts transformation |
+| 🚀 | **Polars**: 10x faster than Pandas |
 | 💰 | **$0/month** — replaces $1,490+ enterprise tools |
 
 <p align="center">
-<code>Python</code> <code>Dagster</code> <code>DuckDB</code> <code>MotherDuck</code> <code>LlamaIndex</code>
+<code>Python</code> <code>Polars</code> <code>dbt</code> <code>DuckDB</code> <code>MotherDuck</code>
 <br>
-<code>Voyage AI</code> <code>Cerebras</code> <code>Streamlit</code> <code>Plotly</code> <code>GitHub Actions</code>
+<code>Dagster</code> <code>Voyage AI</code> <code>LlamaIndex</code> <code>Cerebras</code> <code>Streamlit</code>
 </p>
 
 </td>
@@ -98,28 +99,36 @@
 
 <div align="center">
 
-<!-- Data Engineering -->
+<!-- Data Engineering Core -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
 <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
 <img src="https://img.shields.io/badge/DuckDB-FFC107?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB">
-<img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster">
 
 <br>
 
+<!-- Orchestration & Cloud -->
+<img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster">
+<img src="https://img.shields.io/badge/MotherDuck-FDD023?style=for-the-badge" alt="MotherDuck">
+<img src="https://img.shields.io/badge/Great_Expectations-10B981?style=for-the-badge" alt="Great Expectations">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+
+<br>
+
+<!-- AI/ML Stack -->
 <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge" alt="LlamaIndex">
 <img src="https://img.shields.io/badge/Voyage_AI-06B6D4?style=for-the-badge" alt="Voyage AI">
+<img src="https://img.shields.io/badge/Cerebras-8B5CF6?style=for-the-badge" alt="Cerebras">
 <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" alt="RAG">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/Text--to--SQL-F59E0B?style=for-the-badge" alt="Text-to-SQL">
 
 <br>
 
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Vector_Search-10B981?style=for-the-badge" alt="Vector Search">
-<img src="https://img.shields.io/badge/NLQ-E11D48?style=for-the-badge" alt="NLQ">
-<img src="https://img.shields.io/badge/Text--to--SQL-F59E0B?style=for-the-badge" alt="Text-to-SQL">
-<img src="https://img.shields.io/badge/Embeddings-8B5CF6?style=for-the-badge" alt="Embeddings">
+<!-- Visualization -->
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 
 </div>
 
@@ -131,13 +140,14 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│  ⚡ ETL/ELT Pipelines      →  Dagster, dbt, automated data flows       │
-│  🦆 Cloud Data Warehouses  →  MotherDuck, DuckDB, serverless           │
+│  ⚡ Data Pipelines         →  Polars, Dagster, dbt, real-time ELT      │
+│  🦆 Cloud Data Warehouses  →  MotherDuck, DuckDB, serverless SQL       │
+│  ✅ Data Quality           →  Great Expectations-style validation      │
 │  🤖 AI-Powered Analytics   →  RAG, Text-to-SQL, LLM integration        │
-│  💬 NLQ (Natural Language) →  Ask questions in plain English           │
+│  🧠 Emotion Analytics      →  GKG processing, 2.2K+ dimensions         │
 │  🚀 Vector Search          →  Voyage AI embeddings, cosine similarity  │
-│  📊 Interactive Dashboards →  Streamlit, Power BI, real-time data      │
-│  🔄 CI/CD Automation       →  GitHub Actions, automated testing        │
+│  📊 Interactive Dashboards →  Streamlit, Power BI, Plotly              │
+│  🔄 CI/CD Automation       →  GitHub Actions, 15-min refresh cycles    │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
