@@ -12,7 +12,7 @@
 
 <br>
 
-**Architecting Serverless Data Platforms | SQL • dbt • Polars • Generative AI**
+**Architecting Serverless Data Platforms | SQL • Databricks • dbt • Polars • Generative AI**
 
 *Building production data systems at scale — with $0 infrastructure costs*
 
@@ -31,12 +31,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://global-news-intel-platform.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-FF4B4B?style=for-the-badge" alt="Live Demo">
-  </a>
-  <a href="https://github.com/Mohith-akash/Global-News-Intel-Platform">
-    <img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github" alt="Code">
-  </a>
+  <a href="https://global-news-intel-platform.streamlit.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-FF4B4B?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://github.com/Mohith-akash/Global-News-Intel-Platform"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github" alt="Code"></a>
 </p>
 
 **Real-time geopolitical news analytics with AI chat & emotion tracking**
@@ -66,27 +62,26 @@
 </h3>
 
 <p align="center">
-  <a href="https://olist-analytics-platform.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-FF4B4B?style=for-the-badge" alt="Live Demo">
-  </a>
-  <a href="https://mohith-akash.github.io/olist-analytics-platform/">
-    <img src="https://img.shields.io/badge/📚_dbt_DOCS-FF694B?style=for-the-badge" alt="dbt Docs">
-  </a>
+  <a href="https://olist-analytics-platform.streamlit.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-FF4B4B?style=for-the-badge" alt="Live Demo"></a>
+  <a href="https://github.com/Mohith-akash/olist-analytics-platform"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github" alt="Code"></a>
 </p>
 
-**End-to-end dbt + MotherDuck data pipeline**
+**Databricks Lakehouse with Medallion Architecture**
 
 | Feature | Details |
 |:-------:|---------|
 | 📦 | **100K+ orders** analyzed |
-| 🔧 | **dbt** modeling + hosted docs |
-| 📊 | **Power BI** + Streamlit dashboards |
-| ✅ | CI/CD with pre-commit hooks |
+| 🧱 | **Databricks** + Delta Lake lakehouse |
+| 🏅 | **Medallion**: Bronze → Silver → Gold |
+| 📊 | **Unity Catalog** for data governance |
+| ⚡ | **SQL Warehouse** for fast queries |
+| 🔄 | Migrated from dbt + MotherDuck |
+| ✅ | CI/CD with GitHub Actions |
 
 <p align="center">
-<code>Python</code> <code>dbt</code> <code>DuckDB</code> <code>MotherDuck</code> <code>SQL</code>
+<code>Databricks</code> <code>Delta Lake</code> <code>SQL</code> <code>Python</code>
 <br>
-<code>Power BI</code> <code>Streamlit</code> <code>Plotly</code> <code>Pandas</code> <code>GitHub Actions</code>
+<code>Streamlit</code> <code>Plotly</code> <code>GitHub Actions</code>
 </p>
 
 </td>
@@ -102,16 +97,17 @@
 <!-- Data Engineering Core -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+<img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge" alt="Delta Lake">
 <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars">
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
-<img src="https://img.shields.io/badge/DuckDB-FFC107?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB">
 
 <br>
 
-<!-- Orchestration & Cloud -->
-<img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster">
+<!-- Transformation & Cloud -->
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
+<img src="https://img.shields.io/badge/DuckDB-FFC107?style=for-the-badge&logo=duckdb&logoColor=black" alt="DuckDB">
 <img src="https://img.shields.io/badge/MotherDuck-FDD023?style=for-the-badge" alt="MotherDuck">
-<img src="https://img.shields.io/badge/Great_Expectations-10B981?style=for-the-badge" alt="Great Expectations">
+<img src="https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white" alt="Dagster">
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
 
 <br>
@@ -140,6 +136,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
+│  🧱 Lakehouse Architecture →  Databricks, Delta Lake, Medallion        │
 │  ⚡ Data Pipelines         →  Polars, Dagster, dbt, real-time ELT      │
 │  🦆 Cloud Data Warehouses  →  MotherDuck, DuckDB, serverless SQL       │
 │  ✅ Data Quality           →  Great Expectations-style validation      │
