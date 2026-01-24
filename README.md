@@ -14,7 +14,7 @@
 
 **Building Production Data Platforms & Agentic AI Systems**
 
-*3 Live Apps • 13M+ Records Processed • $0 Infrastructure Cost*
+*4 Live Projects • 13M+ Records Processed • $0 Infrastructure Cost*
 
 </div>
 
@@ -84,20 +84,60 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%" valign="top">
 
-<h3>
+<h3 align="center">
   <a href="https://github.com/Mohith-akash/olist-analytics-platform">🛒 Olist E-Commerce Analytics</a>
 </h3>
 
-<p>
+<p align="center">
   <a href="https://olist-analytics-platform.streamlit.app/"><img src="https://img.shields.io/badge/🚀_LIVE_DEMO-FF4B4B?style=for-the-badge" alt="Live Demo"></a>
   <a href="https://github.com/Mohith-akash/olist-analytics-platform"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github" alt="Code"></a>
 </p>
 
-**Databricks Lakehouse** with Medallion Architecture • **100K+ orders** • **Kimball Star Schema** • **Unity Catalog** governance
+**End-to-end Databricks Lakehouse for e-commerce analytics**
 
-<code>Databricks</code> <code>Delta Lake</code> <code>SQL</code> <code>Power BI</code> <code>Streamlit</code>
+| Feature | Details |
+|:-------:|---------|
+| 🏗️ | **Medallion Architecture**: Bronze → Silver → Gold |
+| 📦 | **100K+ orders** processed with Delta Lake |
+| ⭐ | **Kimball Star Schema**: 7 dimension + 1 fact tables |
+| 🔐 | **Unity Catalog**: Row-level governance |
+| 📊 | **Power BI**: Interactive dashboards |
+
+<p align="center">
+<code>Databricks</code> <code>Delta Lake</code> <code>SQL</code>
+<br>
+<code>Power BI</code> <code>Unity Catalog</code> <code>Streamlit</code>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">
+  <a href="https://github.com/Mohith-akash/ai-cover-letter-generator">✉️ AI Cover Letter Generator</a>
+</h3>
+
+<p align="center">
+  <a href="https://github.com/Mohith-akash/ai-cover-letter-generator"><img src="https://img.shields.io/badge/📂_CODE-181717?style=for-the-badge&logo=github" alt="Code"></a>
+</p>
+
+**Multi-LLM orchestration for personalized job applications**
+
+| Feature | Details |
+|:-------:|---------|
+| 🏆 | **Auto CV Selection**: 4 types + 10 similar roles |
+| 🔍 | **Company Research**: Tavily API, positives-only |
+| 🧠 | **LLM Generation**: Cerebras Llama 3.1 |
+| 🎯 | **90+ Tool Mappings**: Dagster ↔ Airflow |
+| 📊 | **A-F Quality Score**: Professionalism checks |
+| 🌍 | **Global**: Any country, auto-translates |
+
+<p align="center">
+<code>Python</code> <code>Streamlit</code> <code>Cerebras</code>
+<br>
+<code>Voyage AI</code> <code>Tavily</code> <code>Jina Reader</code>
+</p>
 
 </td>
 </tr>
@@ -142,6 +182,12 @@
 
 <br>
 
+<!-- API & Services -->
+<img src="https://img.shields.io/badge/Tavily_Search-FF6B6B?style=for-the-badge" alt="Tavily">
+<img src="https://img.shields.io/badge/Jina_Reader-009688?style=for-the-badge" alt="Jina Reader">
+
+<br>
+
 <!-- Visualization & DevOps -->
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
@@ -163,6 +209,7 @@
 │  🦆 Cloud Data Warehouses  →  MotherDuck, DuckDB, serverless SQL       │
 │  🤖 Agentic AI Systems     →  LLM agents, RAG, Text-to-SQL             │
 │  🚀 Vector Search          →  Voyage AI embeddings, semantic search    │
+│  🔌 API Orchestration      →  Multi-API integration, Tavily, Jina      │
 │  📊 Interactive Dashboards →  Streamlit, Power BI, Plotly              │
 │  🔄 CI/CD Automation       →  GitHub Actions, scheduled pipelines      │
 └─────────────────────────────────────────────────────────────────────────┘
@@ -198,4 +245,3 @@
 
 <!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:6B8DD6&height=120&section=footer&animation=twinkling"/>
-
