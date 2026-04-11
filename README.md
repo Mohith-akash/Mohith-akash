@@ -5,7 +5,7 @@
 
 # 👋 Mohith Akash
 
-### Data Engineer & AI Developer
+### Data Engineer · AI Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-akash/)
 [![Email](https://img.shields.io/badge/mohithakash013@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohithakash013@gmail.com)
@@ -197,6 +197,16 @@
 
 ---
 
+## 🔭 Currently Working On
+
+<div align="center">
+
+*Building a real-time anomaly detection pipeline on Kafka + Flink — stay tuned*
+
+</div>
+
+---
+
 ## 📈 What I Build
 
 <div align="center">
@@ -225,9 +235,9 @@
 
 [![Google Advanced Data Analytics](https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/8122ec21-2031-4de8-a347-4c16db04988f)
 <br>
-[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/d0e6235816d3230aaef8d576d6c23c50)
-<br>
 [![AI for Data Professionals](https://img.shields.io/badge/Analyst_Builder-AI_for_Data_Professionals-06B6D4?style=for-the-badge)](https://www.analystbuilder.com/achievements/verify/A15ZCR8YMD)
+<br>
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://coursera.org/share/d0e6235816d3230aaef8d576d6c23c50)
 
 </div>
 
@@ -235,11 +245,13 @@
 
 <div align="center">
 
-### 💼 Open to Opportunities
+### 💼 Open to Opportunities — Based in Germany
 
-**Data Engineer** · **AI Engineer** · **Analytics Engineer** · **Data Analyst**
+**Data Engineer** · **AI Engineer** · **Analytics Engineer**
 
-*Ready to relocate internationally*
+*Available immediately · EU work authorization (Chancenkarte) · Fluent in English*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-akash/)
 
 </div>
 
