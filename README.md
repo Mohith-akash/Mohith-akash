@@ -13,7 +13,7 @@
 
 **Building Production Data Platforms & Agentic AI Systems**
 
-`4 Live Projects` · `13M+ Records Processed` · `<500ms Latency` · `$0 Infrastructure`
+`4 Live Projects` · `16M+ Records Processed` · `<500ms Latency` · `$0 Infrastructure`
 
 🔭 *Currently building a real-time anomaly detection pipeline on Kafka + Flink*
 
@@ -56,9 +56,9 @@ Real-time streaming platform for AI-powered cart recovery
 <a href="https://github.com/Mohith-akash/Global-News-Intel-Platform"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Code"></a>
 </p>
 
-Hybrid RAG system for querying 13M+ geopolitical news events
+Hybrid RAG system for querying 16M+ geopolitical news events
 
-- 📊 **13M+ events** from GDELT + GKG feeds
+- 📊 **16M+ events** from GDELT + GKG feeds
 - 🔄 **100K+ daily** ingestion with 15-min refresh cycles
 - 🤖 Dual AI agents: Vector Search + Text-to-SQL
 - ⚡ Polars engine — 10x faster than Pandas
