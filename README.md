@@ -13,11 +13,15 @@
 
 **Building Production Data Platforms & Agentic AI Systems**
 
-`4 Live Projects` · `16M+ Records Processed` · `<500ms Latency` · `$0 Infrastructure`
-
-🔭 *Currently building a real-time anomaly detection pipeline on Kafka + Flink*
+`3 Live Projects` · `16M+ Records Processed`
 
 </div>
+
+---
+
+## About Me
+
+Analytics Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Actively seeking data engineering and analytics roles in Germany (EU Blue Card eligible, available immediately).
 
 ---
 
@@ -101,17 +105,16 @@ End-to-end Databricks Lakehouse for e-commerce analytics
 <a href="https://github.com/Mohith-akash/ai-cover-letter-generator"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Code"></a>
 </p>
 
-Multi-LLM orchestration for personalized job applications
+LLM-powered generator for personalized job applications
 
 - 🏆 Auto CV selection: 4 types + 10 similar role matching
 - 🔍 Company research via Tavily API
 - 🧠 LLM generation with Cerebras Llama 3.1
-- 🎯 90+ tool mappings (Dagster ↔ Airflow, etc.)
 - 📊 A-F quality scoring with professionalism checks
 - 🌍 Global support — any country, auto-translates
 
 <p align="center">
-<code>Python</code> <code>Streamlit</code> <code>Cerebras</code> <code>Voyage AI</code> <code>Tavily</code>
+<code>Python</code> <code>Streamlit</code> <code>Cerebras</code> <code>Tavily</code>
 </p>
 
 </td>
@@ -136,7 +139,6 @@ Multi-LLM orchestration for personalized job applications
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
 <img src="https://img.shields.io/badge/Dagster-4F43DD?style=flat-square&logo=dagster&logoColor=white" alt="Dagster">
 <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white" alt="Polars">
-<img src="https://img.shields.io/badge/Great_Expectations-F43F5E?style=flat-square" alt="Great Expectations">
 <img src="https://img.shields.io/badge/MotherDuck-FDD023?style=flat-square" alt="MotherDuck">
 
 **AI & LLM** &nbsp;&nbsp;
@@ -176,6 +178,9 @@ Multi-LLM orchestration for personalized job applications
 **Data Engineer** · **AI Engineer** · **Analytics Engineer**
 
 *Available immediately · EU work authorization (Chancenkarte) · Fluent in English*
+
+<!-- TODO: add education info: degree, university, graduation year -->
+🇩🇪 German: A2 (ongoing)
 
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-akash/)
 
