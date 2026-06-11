@@ -97,27 +97,6 @@ End-to-end Databricks Lakehouse for e-commerce analytics
 </p>
 
 </td>
-<td width="50%" valign="top">
-
-### <div align="center"><a href="https://github.com/Mohith-akash/ai-cover-letter-generator">AI Cover Letter Generator</a></div>
-
-<p align="center">
-<a href="https://github.com/Mohith-akash/ai-cover-letter-generator"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Code"></a>
-</p>
-
-LLM-powered generator for personalized job applications
-
-- 🏆 Auto CV selection: 4 types + 10 similar role matching
-- 🔍 Company research via Tavily API
-- 🧠 LLM generation with Cerebras Llama 3.1
-- 📊 A-F quality scoring with professionalism checks
-- 🌍 Global support — any country, auto-translates
-
-<p align="center">
-<code>Python</code> <code>Streamlit</code> <code>Cerebras</code> <code>Tavily</code>
-</p>
-
-</td>
 </tr>
 </table>
 
