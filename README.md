@@ -97,6 +97,26 @@ End-to-end Databricks Lakehouse for e-commerce analytics
 </p>
 
 </td>
+<td width="50%" valign="top">
+
+### <div align="center"><a href="https://github.com/Mohith-akash/Excel-Data-Analyst-Portfolio-Project">Job Market Analysis Dashboard</a></div>
+
+<p align="center">
+<a href="https://github.com/Mohith-akash/Excel-Data-Analyst-Portfolio-Project"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Code"></a>
+</p>
+
+Interactive Excel dashboard analyzing 13K+ data job postings
+
+- 🧹 **12,894 postings** cleaned via 70+ step Power Query ETL
+- 🧮 **228K+ rows** modeled in Power Pivot with custom DAX
+- 🏷️ 4,000+ messy job titles standardized into role categories
+- 📊 Slicers for skill demand, seniority and geography
+
+<p align="center">
+<code>Excel</code> <code>Power Query</code> <code>Power Pivot</code> <code>DAX</code>
+</p>
+
+</td>
 </tr>
 </table>
 
