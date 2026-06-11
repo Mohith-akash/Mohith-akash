@@ -13,7 +13,7 @@
 
 **Building Production Data Platforms & Agentic AI Systems**
 
-`3 Live Projects` · `16M+ Records Processed`
+`3 Live Projects` · `20M+ Records Processed`
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ## About Me
 
-Analytics Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Actively seeking data engineering and analytics roles in Germany (EU Blue Card eligible, available immediately).
+Analytics Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Based in Leipzig, Germany as a Chancenkarte (Opportunity Card) holder, eligible to work in Germany and available immediately for data engineering and analytics roles.
 
 ---
 
@@ -60,12 +60,12 @@ Real-time streaming platform for AI-powered cart recovery
 <a href="https://github.com/Mohith-akash/Global-News-Intel-Platform"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Code"></a>
 </p>
 
-Hybrid RAG system for querying 16M+ geopolitical news events
+Hybrid RAG system for querying 20M+ geopolitical news events
 
-- 📊 **16M+ events** from GDELT + GKG feeds
+- 📊 **20M+ events** from GDELT + GKG feeds
 - 🔄 **100K+ daily** ingestion with 15-min refresh cycles
 - 🤖 Dual AI agents: Vector Search + Text-to-SQL
-- ⚡ Polars engine — 10x faster than Pandas
+- ⚡ Polars engine, ~10x faster than pandas
 - 💰 **$0/month** fully serverless on MotherDuck
 
 <p align="center">
@@ -88,7 +88,7 @@ End-to-end Databricks Lakehouse for e-commerce analytics
 
 - 🏗️ Medallion Architecture: Bronze → Silver → Gold
 - 📦 **100K+ orders** processed with Delta Lake
-- ⭐ Kimball Star Schema: 7 dimension + 1 fact tables
+- ⭐ Kimball star schema: fct_orders + 3 dimension tables
 - 🔐 Unity Catalog with row-level governance
 - 📊 Power BI interactive dashboards
 
@@ -179,7 +179,8 @@ LLM-powered generator for personalized job applications
 
 *Available immediately · EU work authorization (Chancenkarte) · Fluent in English*
 
-<!-- TODO: add education info: degree, university, graduation year -->
+🎓 B.Tech, Electrical & Electronics Engineering · SRM University, Chennai (2020)
+
 🇩🇪 German: A2 (ongoing)
 
 [![Let's Connect](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohith-akash/)
