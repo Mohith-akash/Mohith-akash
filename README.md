@@ -1,6 +1,6 @@
 # Mohith Akash
 
-**Data Engineer · Analytics Engineer · AI Engineer**
+**Data Engineer & GenAI Developer**
 
 [LinkedIn](https://www.linkedin.com/in/mohith-akash/) · [Email](mailto:mohithakash013@gmail.com) · Leipzig, Germany
 
@@ -8,7 +8,7 @@ Building production data platforms and LLM-powered systems — 3 live projects, 
 
 ## About me
 
-Analytics Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Based in Leipzig, Germany as a Chancenkarte (Opportunity Card) holder, eligible to work in Germany and available immediately for data engineering and analytics roles.
+Data Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Based in Leipzig, Germany as a Chancenkarte (Opportunity Card) holder, eligible to work in Germany and available immediately.
 
 ## Projects
 
@@ -68,6 +68,6 @@ Interactive Excel dashboard analyzing 12,894 data job postings.
 
 ---
 
-**Open to opportunities in Germany** — Data Engineer / Analytics Engineer / AI Engineer. Available immediately, EU work authorization (Chancenkarte, no sponsorship needed), English C1, German A2 (working toward B1).
+**Data Engineer & GenAI Developer — open to Data Engineer, Analytics Engineer, AI Engineer, and Data Analyst roles in Germany.** Available immediately, EU work authorization (Chancenkarte, no sponsorship needed), English C1, German A2 (working toward B1).
 
 B.Tech, Electrical & Electronics Engineering — SRM University, Chennai (2020)
