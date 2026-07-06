@@ -2,19 +2,19 @@
 
 **Data Engineer & GenAI Developer**
 
-[LinkedIn](https://www.linkedin.com/in/mohith-akash/) · [Email](mailto:mohithakash013@gmail.com) · Leipzig, Germany
+[LinkedIn](https://www.linkedin.com/in/mohith-akash/) · [Email](mailto:mohithakash013@gmail.com) · Germany
 
 Building production data platforms and LLM-powered systems — 3 live projects, 20M+ records processed.
 
 ## About me
 
-Data Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Based in Leipzig, Germany as a Chancenkarte (Opportunity Card) holder, eligible to work in Germany and available immediately.
+Data Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Based in Germany as a Chancenkarte (Opportunity Card) holder, eligible to work anywhere in Germany and available immediately.
 
 ## Projects
 
 ### [Global News Intelligence Platform](https://github.com/Mohith-akash/Global-News-Intel-Platform) — [live demo](https://global-news-intel-platform.streamlit.app/)
 
-Serverless ELT pipeline over 20M+ geopolitical news events from GDELT, running unattended for 8+ months.
+Serverless ELT pipeline over 20M+ geopolitical news events from GDELT, in continuous scheduled operation for 8+ months.
 
 - 100K+ events ingested daily on a 15-minute refresh cycle
 - Dual AI chat: text-to-SQL and RAG over vector embeddings
@@ -55,10 +55,10 @@ Interactive Excel dashboard analyzing 12,894 data job postings.
 
 ## Tech stack
 
-**Data engineering:** Python · SQL · Databricks · Delta Lake · Azure · DuckDB/MotherDuck
-**Pipelines:** dbt Core · Dagster · Polars · GitHub Actions
-**AI/LLM:** RAG · LlamaIndex · Cerebras · Voyage AI embeddings
-**Visualization:** Streamlit · Plotly · Power BI
+- **Data engineering:** Python · SQL · Databricks · Delta Lake · Azure · DuckDB/MotherDuck
+- **Pipelines:** dbt Core · Dagster · Polars · GitHub Actions
+- **AI/LLM:** RAG · LlamaIndex · Cerebras · Voyage AI embeddings
+- **Visualization:** Streamlit · Plotly · Power BI
 
 ## Certifications
 
@@ -70,4 +70,4 @@ Interactive Excel dashboard analyzing 12,894 data job postings.
 
 **Data Engineer & GenAI Developer — open to Data Engineer, Analytics Engineer, AI Engineer, and Data Analyst roles in Germany.** Available immediately, EU work authorization (Chancenkarte, no sponsorship needed), English C1, German A2 (working toward B1).
 
-B.Tech, Electrical & Electronics Engineering — SRM University, Chennai (2020)
+B.Tech, Electrical & Electronics Engineering — SRM University, Chennai
