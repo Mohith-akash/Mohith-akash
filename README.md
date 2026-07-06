@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/mohith-akash/) · [Email](mailto:mohithakash013@gmail.com) · Germany
 
-Building production data platforms and LLM-powered systems — 3 live projects, 20M+ records processed.
+Building production data platforms and LLM-powered systems. 3 live projects, 20M+ records processed.
 
 ## About me
 
@@ -12,7 +12,7 @@ Data Engineer focused on data pipelines, SQL analytics, and LLM integration. Bui
 
 ## Projects
 
-### [Global News Intelligence Platform](https://github.com/Mohith-akash/Global-News-Intel-Platform) — [live demo](https://global-news-intel-platform.streamlit.app/)
+### [Global News Intelligence Platform](https://github.com/Mohith-akash/Global-News-Intel-Platform) · [live demo](https://global-news-intel-platform.streamlit.app/)
 
 Serverless ELT pipeline over 20M+ geopolitical news events from GDELT, in continuous scheduled operation for 8+ months.
 
@@ -23,7 +23,7 @@ Serverless ELT pipeline over 20M+ geopolitical news events from GDELT, in contin
 
 `Python` `Polars` `dbt` `MotherDuck` `Dagster` `LlamaIndex`
 
-### [Vortex: Revenue Recovery Engine](https://github.com/Mohith-akash/Vortex-The-Revenue-Recovery-Engine) — [live demo](https://vortex-the-revenue-recovery-engine.streamlit.app/)
+### [Vortex: Revenue Recovery Engine](https://github.com/Mohith-akash/Vortex-The-Revenue-Recovery-Engine) · [live demo](https://vortex-the-revenue-recovery-engine.streamlit.app/)
 
 Real-time streaming platform for AI-powered cart-abandonment recovery.
 
@@ -34,7 +34,7 @@ Real-time streaming platform for AI-powered cart-abandonment recovery.
 
 `Databricks` `Azure Event Hubs` `DLT` `Cerebras` `dbt` `Streamlit`
 
-### [Olist E-Commerce Analytics](https://github.com/Mohith-akash/olist-analytics-platform) — [live demo](https://olist-analytics-platform.streamlit.app/)
+### [Olist E-Commerce Analytics](https://github.com/Mohith-akash/olist-analytics-platform) · [live demo](https://olist-analytics-platform.streamlit.app/)
 
 Databricks lakehouse over 100K+ orders from the Brazilian Olist marketplace.
 
@@ -63,11 +63,11 @@ Interactive Excel dashboard analyzing 12,894 data job postings.
 ## Certifications
 
 - [Google Advanced Data Analytics](https://www.credly.com/badges/8122ec21-2031-4de8-a347-4c16db04988f)
-- [AI for Data Professionals — Analyst Builder](https://www.analystbuilder.com/achievements/verify/A15ZCR8YMD)
+- [AI for Data Professionals (Analyst Builder)](https://www.analystbuilder.com/achievements/verify/A15ZCR8YMD)
 - [Google Cybersecurity](https://coursera.org/share/d0e6235816d3230aaef8d576d6c23c50)
 
 ---
 
-**Data Engineer & GenAI Developer — open to Data Engineer, Analytics Engineer, AI Engineer, and Data Analyst roles in Germany.** Available immediately, EU work authorization (Chancenkarte, no sponsorship needed), English C1, German A2 (working toward B1).
+**Data Engineer & GenAI Developer. Open to Data Engineer, Analytics Engineer, AI Engineer, and Data Analyst roles in Germany.** Available immediately, EU work authorization (Chancenkarte, no sponsorship needed), English C1, German A2 (working toward B1).
 
-B.Tech, Electrical & Electronics Engineering — SRM University, Chennai
+B.Tech, Electrical & Electronics Engineering, SRM University, Chennai
