@@ -68,6 +68,6 @@ Interactive Excel dashboard analyzing 12,894 data job postings.
 
 ---
 
-**Data Engineer & GenAI Developer. Open to Data Engineer, Analytics Engineer, AI Engineer, and Data Analyst roles in Germany.** Available immediately, EU work authorization (Chancenkarte, no sponsorship needed), English C1, German A2 (working toward B1).
+**Data Engineer & GenAI Developer. Open to Data Engineer, Analytics Engineer, AI Engineer, and Data Analyst roles in Germany.** Available immediately, authorized to work in Germany (Chancenkarte, no sponsorship needed), English C1, German A2 (working toward B1).
 
 B.Tech, Electrical & Electronics Engineering, SRM University, Chennai
