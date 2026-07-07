@@ -4,11 +4,13 @@
 
 [LinkedIn](https://www.linkedin.com/in/mohith-akash/) · [Email](mailto:mohithakash013@gmail.com) · Germany
 
-Building production data platforms and LLM-powered systems. 3 live projects, 20M+ records processed.
+Building production data platforms and LLM-powered systems. 3 live projects, 20M+ records processed, 6,000+ users.
 
 ## About me
 
-Data Engineer focused on data pipelines, SQL analytics, and LLM integration. Building production-grade data systems with Databricks, dbt, and Python. Based in Germany as a Chancenkarte (Opportunity Card) holder, eligible to work anywhere in Germany and available immediately.
+I ran MAS Nexus, my own engineering practice, for over two years: 27 months as an embedded data engineer for a client on vendor basis (data pipelines, reporting layer, tooling decisions, AI features), plus the platforms below built alongside. Reference letter available on request.
+
+Based in Germany as a Chancenkarte (Opportunity Card) holder, authorized to work anywhere in Germany and available immediately.
 
 ## Projects
 
@@ -16,6 +18,7 @@ Data Engineer focused on data pipelines, SQL analytics, and LLM integration. Bui
 
 Serverless ELT pipeline over 20M+ geopolitical news events from GDELT, in continuous scheduled operation for 8+ months.
 
+- 6,000+ unique visitors in the first few months, 100+ new users daily, zero advertising
 - 100K+ events ingested daily on a 15-minute refresh cycle
 - Dual AI chat: text-to-SQL and RAG over vector embeddings
 - Slowest stage rewritten in Polars (~10x faster than Pandas)
@@ -44,6 +47,15 @@ Databricks lakehouse over 100K+ orders from the Brazilian Olist marketplace.
 
 `Databricks` `Delta Lake` `SQL` `Unity Catalog` `Power BI`
 
+### [German Frequency Deck](https://github.com/Mohith-akash/german-frequency-deck)
+
+Anki deck with 5,000+ German words across A1 to C1, built while learning German myself. Near 3,000 downloads, all organic.
+
+- Designed the build pipeline with AI: word selection by frequency and learner need
+- Neural audio for every word, images, verb conjugations
+
+`Python` `Anki` `Text-to-Speech`
+
 ### [Job Market Analysis Dashboard](https://github.com/Mohith-akash/Excel-Data-Analyst-Portfolio-Project)
 
 Interactive Excel dashboard analyzing 12,894 data job postings.
@@ -53,7 +65,7 @@ Interactive Excel dashboard analyzing 12,894 data job postings.
 
 `Excel` `Power Query` `Power Pivot` `DAX`
 
-## Tech stack
+## Tools
 
 - **Data engineering:** Python · SQL · Databricks · Delta Lake · Azure · DuckDB/MotherDuck
 - **Pipelines:** dbt Core · Dagster · Polars · GitHub Actions
