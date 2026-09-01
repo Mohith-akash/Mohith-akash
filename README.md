@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/mohith-akash/) · [Email](mailto:mohithakash013@gmail.com) · Germany
 
-Building production data platforms and LLM-powered systems. 3 live projects, 20M+ records processed, 6,000+ users.
+Building production data platforms and LLM-powered systems. 3 live projects, 25M+ records processed, 6,000+ users.
 
 ## About me
 
@@ -16,7 +16,7 @@ Based in Germany as a Chancenkarte (Opportunity Card) holder, authorized to work
 
 ### [Global News Intelligence Platform](https://github.com/Mohith-akash/Global-News-Intel-Platform) · [live demo](https://global-news-intel-platform.streamlit.app/)
 
-Serverless ELT pipeline over 20M+ geopolitical news events from GDELT, in continuous scheduled operation for 8+ months.
+Serverless ELT pipeline over 25M+ geopolitical news events from GDELT, in continuous scheduled operation for 8+ months.
 
 - 6,000+ unique visitors in the first few months, 100+ new users daily, zero advertising
 - 100K+ events ingested daily on an hourly refresh cycle
