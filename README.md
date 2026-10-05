@@ -16,7 +16,7 @@ Based in Germany as a Chancenkarte (Opportunity Card) holder, authorized to work
 
 ### [Global News Intelligence Platform](https://github.com/Mohith-akash/Global-News-Intel-Platform) · [live demo](https://global-news-intel-platform.streamlit.app/)
 
-Serverless ELT pipeline over 30M+ geopolitical news events from GDELT, in continuous scheduled operation for 8+ months.
+Serverless ELT pipeline over 30M+ geopolitical news events from GDELT, live since December 2025.
 
 - 6,000+ unique visitors in the first few months, 100+ new users daily, zero advertising
 - 100K+ events ingested daily on an hourly refresh cycle
@@ -24,7 +24,7 @@ Serverless ELT pipeline over 30M+ geopolitical news events from GDELT, in contin
 - Slowest stage rewritten in Polars (~10x faster than Pandas)
 - $0/month: MotherDuck + Dagster + GitHub Actions on free tiers
 
-`Python` `Polars` `dbt` `MotherDuck` `Dagster` `LlamaIndex`
+`Python` `Polars` `dbt` `MotherDuck` `Dagster` `Great Expectations`
 
 ### [Vortex: Revenue Recovery Engine](https://github.com/Mohith-akash/Vortex-The-Revenue-Recovery-Engine) · [live demo](https://vortex-the-revenue-recovery-engine.streamlit.app/)
 
@@ -68,7 +68,7 @@ Interactive Excel dashboard analyzing 12,894 data job postings.
 ## Tools
 
 - **Data engineering:** Python · SQL · Databricks · Delta Lake · Azure · DuckDB/MotherDuck
-- **Pipelines:** dbt Core · Dagster · Polars · GitHub Actions
+- **Pipelines:** dbt Core · Dagster · Polars · Great Expectations · GitHub Actions
 - **AI/LLM:** RAG · LlamaIndex · Cerebras · Voyage AI embeddings
 - **Visualization:** Streamlit · Plotly · Power BI
 
