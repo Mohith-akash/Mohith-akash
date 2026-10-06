@@ -30,7 +30,7 @@ Serverless ELT pipeline over 30M+ geopolitical news events from GDELT, live sinc
 
 Real-time streaming platform for AI-powered cart-abandonment recovery.
 
-- Azure Event Hubs → Delta Live Tables, <500ms end-to-end latency
+- Azure Event Hubs streaming into Delta Live Tables (Bronze, Silver, Gold)
 - LLM-personalized recovery messages across 5 customer archetypes
 - Medallion lakehouse (Bronze/Silver/Gold) with DLT expectations
 - A/B testing with z-scores at 95% confidence
