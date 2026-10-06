@@ -4,7 +4,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/mohith-akash/) · [Email](mailto:mohithakash013@gmail.com) · Germany
 
-Building production data platforms and LLM-powered systems. 3 live projects, 30M+ records processed, 6,000+ users.
+Building production data platforms and LLM-powered systems. 3 live projects, 30M+ records processed, 8,600+ users.
 
 ## About me
 
@@ -18,7 +18,7 @@ Based in Germany as a Chancenkarte (Opportunity Card) holder, authorized to work
 
 Serverless ELT pipeline over 30M+ geopolitical news events from GDELT, live since December 2025.
 
-- 6,000+ unique visitors in the first few months, 100+ new users daily, zero advertising
+- 8,600+ unique visitors since launch, zero advertising
 - 100K+ events ingested daily on an hourly refresh cycle
 - Dual AI chat: text-to-SQL and RAG over vector embeddings
 - Slowest stage rewritten in Polars (~10x faster than Pandas)
@@ -49,7 +49,7 @@ Databricks lakehouse over 100K+ orders from the Brazilian Olist marketplace.
 
 ### [German Frequency Deck](https://github.com/Mohith-akash/german-frequency-deck)
 
-Anki deck with 5,000+ German words across A1 to C1, built while learning German myself. Near 3,000 downloads, all organic.
+Anki deck with 5,000+ German words across A1 to C1, built while learning German myself. 7,800+ downloads on AnkiWeb, all organic.
 
 - Designed the build pipeline with AI: word selection by frequency and learner need
 - Neural audio for every word, images, verb conjugations
