@@ -19,8 +19,8 @@ Based in Germany as a Chancenkarte (Opportunity Card) holder, authorized to work
 Serverless ELT pipeline over 30M+ geopolitical news events from GDELT, live since December 2025.
 
 - 8,600+ unique visitors since launch, zero advertising
-- 100K+ events ingested daily on an hourly refresh cycle
-- Dual AI chat: text-to-SQL and RAG over vector embeddings
+- 100K+ events ingested daily on an hourly refresh cycle, dbt marts with 30+ tests built weekly
+- Two-mode AI chat: RAG over vector embeddings, plus SQL answers from tested query templates
 - Slowest stage rewritten in Polars (~10x faster than Pandas)
 - $0/month: MotherDuck + Dagster + GitHub Actions on free tiers
 
