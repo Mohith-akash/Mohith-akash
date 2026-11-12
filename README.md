@@ -8,7 +8,7 @@ I build data pipelines, warehouses and LLM features. 3 live projects, 30M+ recor
 
 ## About me
 
-I ran MAS Nexus, my own data consultancy, for over two years, doing data work for client companies: pipelines, warehouse models, 15+ dashboards and reports, and later AI features. The longest engagement ran 27 months as an embedded data engineer. The platforms below were built alongside. Reference letter available on request.
+For over two years I did data work for client companies through MAS Nexus, a data consultancy: pipelines, warehouse models, 15+ dashboards and reports, and later AI features. The longest engagement ran 27 months as an embedded data engineer. The platforms below were built alongside. Reference letter available on request.
 
 Based in Berlin with a Chancenkarte (Opportunity Card). I can start right away part-time and move to full-time through a Blue Card or skilled worker permit; the employer signs one form and pays no fees.
 
